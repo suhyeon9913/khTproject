@@ -3,7 +3,7 @@ public class TestWrapper {
 	
 	public static void main(String[] args) { //main +컨트롤+스페이스바 , 메인메소드 자동완성
 		
-		int i = 5; //기본자료형
+		int i = 5; //기본자료형.
 		
 		Integer i2=new Integer(5); //Wrapper 클래스
 		
